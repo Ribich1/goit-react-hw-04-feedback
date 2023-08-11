@@ -1,0 +1,8 @@
+.buttonList {
+  display: flex;
+  gap: 10px;
+  list-style: none;
+}
+.button__item > button {
+  cursor: pointer;
+}
